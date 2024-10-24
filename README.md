@@ -1,13 +1,12 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🫠🫠😫 MACHINE LEARNING APP
 
-Description of the app ...
+
+
+This is the machine learning app
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml1.app-starter-kit.streamlit.app/)
 
 ## GitHub Codespaces
 
